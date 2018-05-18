@@ -8,5 +8,7 @@
     </head>
     <body>
     <p>Hello !!</p>
+    <p>Test de d'ajout de paragraphe</p>
+    <i>Bientôt un WE prolongé !!!</i>
     </body>
 </html>
