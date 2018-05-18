@@ -1,5 +1,3 @@
-//  https://gitforwindows.org/
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
